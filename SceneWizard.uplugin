@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SceneWizard",
+	"Description": "Toolkit for Scene Building.",
+	"Category": "Editor",
+	"CreatedBy": "zhongkailiu",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SceneWizard",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
