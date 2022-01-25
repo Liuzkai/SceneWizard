@@ -18,7 +18,6 @@ public class SceneWizard : ModuleRules
 		
 		PrivateIncludePaths.AddRange(
 			new string[] {
-				"SceneWizard/Private/Tools/Public"
 				// ... add other private include paths required here ...
 			}
 			);
